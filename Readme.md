@@ -19,6 +19,13 @@
 	<img src="https://user-images.githubusercontent.com/20288358/29912491-89502e5a-8e3a-11e7-8950-9adaa76f37bc.png" alt="BAck to Top JQ">
 </p>
 
+<h1>Change Page Background on Scroll</h1>
+<h2>Open<a href="https://cwetkow.github.io/jquery-elements/scroll-background" target="_blank"> site</a><a</h2>
+<h1>
+<p>
+	<img src="https://user-images.githubusercontent.com/20288358/29916916-ec959276-8e48-11e7-9762-28ba0856bac4.png" alt="Change Page Background on Scroll JQ">
+</p>
+
 <h1>Parallax</h1>
 <h2>Open<a href="https://cwetkow.github.io/jquery-elements/parallax" target="_blank"> site</a></h2>
 <h1>
